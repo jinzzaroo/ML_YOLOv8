@@ -1,0 +1,14 @@
+names:
+- car
+- electric-kickboard
+- tree
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: walking-obstacles
+  url: https://universe.roboflow.com/yolodataset-4wb8r/walking-obstacles/dataset/2
+  version: 2
+  workspace: yolodataset-4wb8r
+test: test/images
+train: train/images
+val: valid/images
